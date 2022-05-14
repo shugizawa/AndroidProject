@@ -1,0 +1,41 @@
+apply from: 'aar-imports.gradle'
+apply from: 'projects.gradle'
+apply from: 'abi.gradle'
+android {
+	signingConfigs {
+		release {
+			storeFile file('C:/Users/User/Documents/Unreal Projects/AndroidRunner/Intermediate/Android/arm64/ue4newsup.jks')
+			storePassword '123456'
+			keyAlias 'KeyUe5'
+			keyPassword '123456'
+		}
+	}
+	buildTypes {
+		release {
+			signingConfig signingConfigs.release
+			minifyEnabled true
+			proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+		}
+		debug {
+			debuggable true
+		}
+	}
+}
+			dependencies {
+			implementation 'com.android.billingclient:billing:2.0.3'
+			}
+dependencies {
+	implementation('com.android.support:support-v13:27.1.0')
+}
+android {
+	buildTypes {
+		release {
+			proguardFile "proguard/asset_delivery.pgcfg"
+			proguardFile "proguard/common.pgcfg"
+			proguardFile "proguard/app_update.pgcfg"
+			proguardFile "proguard/split_install.pgcfg"
+		}
+	}
+}
+
+			dependencies.implementation(name: 'aar', ext: 'aar')

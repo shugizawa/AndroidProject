@@ -1,0 +1,1346 @@
+﻿Log file open, 05/11/22 17:25:21
+LogInit: Display: Running engine for game: FreeRunner
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.332307
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD FX(tm)-8320 Eight-Core Processor           , GPU: Radeon RX 570 Series
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.05.11-12.25.22:013][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.05.11-12.25.22:013][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.05.11-12.25.22:013][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Engine.ini]
+[2022.05.11-12.25.22:013][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.05.11-12.25.22:013][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2022.05.11-12.25.22:013][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2022.05.11-12.25.22:013][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2022.05.11-12.25.22:013][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2022.05.11-12.25.22:013][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2022.05.11-12.25.22:013][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2022.05.11-12.25.22:013][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2022.05.11-12.25.22:013][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2022.05.11-12.25.22:013][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.05.11-12.25.22:013][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.AnisotropicBRDF:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2022.05.11-12.25.22:014][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2022.05.11-12.25.22:015][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Engine.ini]
+[2022.05.11-12.25.22:016][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Engine.ini]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Engine.ini]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.05.11-12.25.22:016][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Engine.ini]
+[2022.05.11-12.25.22:016][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Engine.ini]
+[2022.05.11-12.25.22:028][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Scalability.ini]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Scalability.ini]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Scalability.ini]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Scalability.ini]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.11-12.25.22:029][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Scalability.ini]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Scalability.ini]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Scalability.ini]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.11-12.25.22:030][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Scalability.ini]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2022.05.11-12.25.22:031][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.11-12.25.22:031][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.05.11-12.25.22:031][  0]LogHAL: Display: Platform has ~ 16 GB [17142755328 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.11-12.25.22:031][  0]LogInit: Going up to parent DeviceProfile []
+[2022.05.11-12.25.22:031][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Scalability.ini]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Scalability.ini]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Scalability.ini]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.11-12.25.22:031][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Scalability.ini]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Scalability.ini]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Scalability.ini]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.11-12.25.22:032][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.SSGI.Quality:4]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:2]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Scalability.ini]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Scalability.ini]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:64]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:1]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:32]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:1]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:1]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:1]]
+[2022.05.11-12.25.22:033][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.11-12.25.22:035][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.05.11-12.25.22:035][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.05.11-12.25.22:035][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.05.11-12.25.22:035][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Windows/Engine.ini]
+[2022.05.11-12.25.22:035][  0]LogInit: Computer: DESKTOP-FFGRD9F
+[2022.05.11-12.25.22:035][  0]LogInit: User: User
+[2022.05.11-12.25.22:035][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.05.11-12.25.22:035][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.11-12.25.22:035][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2022.05.11-12.25.22:035][  0]LogMemory: Platform Memory Stats for Windows
+[2022.05.11-12.25.22:035][  0]LogMemory: Process Physical Memory: 116.88 MB used, 116.88 MB peak
+[2022.05.11-12.25.22:035][  0]LogMemory: Process Virtual Memory: 110.26 MB used, 110.26 MB peak
+[2022.05.11-12.25.22:035][  0]LogMemory: Physical Memory: 7106.55 MB used,  9242.06 MB free, 16348.61 MB total
+[2022.05.11-12.25.22:035][  0]LogMemory: Virtual Memory: 5159.27 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2022.05.11-12.25.22:047][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.11-12.25.22:112][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.05.11-12.25.22:114][  0]LogInit: Using OS detected language (ru-RU).
+[2022.05.11-12.25.22:114][  0]LogInit: Using OS detected locale (ru-RU).
+[2022.05.11-12.25.22:125][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2022.05.11-12.25.22:126][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2022.05.11-12.25.22:126][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2022.05.11-12.25.22:126][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2022.05.11-12.25.22:126][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2022.05.11-12.25.22:126][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2022.05.11-12.25.22:126][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2022.05.11-12.25.22:127][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2022.05.11-12.25.22:132][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.11-12.25.22:294][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.11-12.25.22:294][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.11-12.25.23:493][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.11-12.25.23:493][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.05.11-12.25.23:493][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.05.11-12.25.23:493][  0]LogD3D11RHI: D3D11 adapters:
+[2022.05.11-12.25.24:144][  0]LogD3D11RHI:    0. 'Radeon RX 570 Series' (Feature Level 11_0)
+[2022.05.11-12.25.24:144][  0]LogD3D11RHI:       8170/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2022.05.11-12.25.24:148][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.05.11-12.25.24:148][  0]LogD3D11RHI:       0/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.05.11-12.25.24:148][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.05.11-12.25.24:161][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.05.11-12.25.24:161][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2022.05.11-12.25.24:161][  0]LogWindows: EnumDisplayDevices:
+[2022.05.11-12.25.24:161][  0]LogWindows:    0. 'Radeon RX 570 Series' (P:0 D:1)
+[2022.05.11-12.25.24:162][  0]LogWindows:    1. 'Radeon RX 570 Series' (P:1 D:1)
+[2022.05.11-12.25.24:163][  0]LogWindows:    2. 'Radeon RX 570 Series' (P:0 D:0)
+[2022.05.11-12.25.24:165][  0]LogWindows:    3. 'Radeon RX 570 Series' (P:0 D:0)
+[2022.05.11-12.25.24:166][  0]LogWindows:    4. 'Radeon RX 570 Series' (P:0 D:0)
+[2022.05.11-12.25.24:167][  0]LogWindows:    5. 'Radeon RX 570 Series' (P:0 D:0)
+[2022.05.11-12.25.24:168][  0]LogWindows:    6. 'Radeon RX 570 Series' (P:0 D:0)
+[2022.05.11-12.25.24:169][  0]LogWindows: DebugString: FoundDriverCount:7 
+[2022.05.11-12.25.24:169][  0]LogD3D11RHI:     Adapter Name: Radeon RX 570 Series
+[2022.05.11-12.25.24:169][  0]LogD3D11RHI:   Driver Version: AMD Software: Adrenalin Edition 22.3.2 (internal:30.0.15019.1005, unified:30.0.15019.1005)
+[2022.05.11-12.25.24:169][  0]LogD3D11RHI:      Driver Date: 3-22-2022
+[2022.05.11-12.25.24:169][  0]LogRHI: Texture pool is 5182 MB (70% of 7402 MB)
+[2022.05.11-12.25.24:310][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.05.11-12.25.24:310][  0]LogD3D11RHI: Async texture creation enabled
+[2022.05.11-12.25.24:310][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.05.11-12.25.24:311][  0]LogD3D11RHI: HDR output is supported on display 0 (AMD Device: 0x0, Display: 0x0).
+[2022.05.11-12.25.24:326][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2022.05.11-12.25.24:949][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.05.11-12.25.25:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.11-12.25.25:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.11-12.25.25:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.11-12.25.25:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.11-12.25.25:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.11-12.25.25:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.11-12.25.25:018][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.11-12.25.25:018][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.11-12.25.25:018][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.11-12.25.25:018][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.11-12.25.25:104][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.11-12.25.25:104][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.11-12.25.25:126][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.11-12.25.25:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.05.11-12.25.25:163][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.11-12.25.25:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.11-12.25.25:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.05.11-12.25.25:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.05.11-12.25.25:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.05.11-12.25.25:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.05.11-12.25.25:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.05.11-12.25.25:331][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.11-12.25.25:331][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.11-12.25.25:353][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.05.11-12.25.25:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.11-12.25.25:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.11-12.25.25:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.11-12.25.25:411][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.05.11-12.25.25:429][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.11-12.25.25:558][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Intermediate/Shaders/WorkingDirectory/15828/).
+[2022.05.11-12.25.25:558][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/4163D8274FC7EBE726BD55B69B2979E6/'.
+[2022.05.11-12.25.25:559][  0]LogXGEController: Cleaning working directory: C:/Users/User/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.05.11-12.25.25:559][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.05.11-12.25.25:560][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.05.11-12.25.25:560][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.05.11-12.25.31:673][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.05.11-12.25.31:806][  0]LogDerivedDataCache: Loaded boot cache 0.13s 76MB C:/Users/User/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2022.05.11-12.25.31:806][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2022.05.11-12.25.31:806][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.11-12.25.31:806][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.05.11-12.25.31:806][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.11-12.25.31:806][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.05.11-12.25.31:825][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.05.11-12.25.31:825][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.11-12.25.31:825][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.05.11-12.25.31:828][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.11-12.25.31:828][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.11-12.25.31:828][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.05.11-12.25.31:944][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.11-12.25.31:948][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.11-12.25.32:055][  0]LogAssetRegistry: FAssetRegistry took 0.0040 seconds to start up
+[2022.05.11-12.25.32:517][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.11-12.25.32:736][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.11-12.25.32:736][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.11-12.25.32:736][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.11-12.25.32:736][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.11-12.25.32:736][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.11-12.25.32:776][  0]LogNetVersion: FreeRunner 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3994912003)
+[2022.05.11-12.25.34:150][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000019214DB6180), frame # 0
+[2022.05.11-12.25.34:150][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019214C6DE40), frame # 0
+[2022.05.11-12.25.34:152][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019214CA2E00), frame # 0
+[2022.05.11-12.25.34:313][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.149773 seconds
+[2022.05.11-12.25.34:323][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2022.05.11-12.25.34:323][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2022.05.11-12.25.34:323][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.11-12.25.35:069][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.11-12.25.35:077][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.11-12.25.35:302][  0]SourceControl: Source control is disabled
+[2022.05.11-12.25.35:302][  0]SourceControl: Source control is disabled
+[2022.05.11-12.25.35:310][  0]SourceControl: Source control is disabled
+[2022.05.11-12.25.35:318][  0]SourceControl: Source control is disabled
+[2022.05.11-12.25.35:333][  0]SourceControl: Source control is disabled
+[2022.05.11-12.25.35:852][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.11-12.25.35:895][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.11-12.25.35:895][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.11-12.25.35:997][  0]LogOcInput: OculusInput pre-init called
+[2022.05.11-12.25.36:018][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.05.11-12.25.36:018][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.05.11-12.25.36:135][  0]LogEngine: Initializing Engine...
+[2022.05.11-12.25.36:136][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.11-12.25.36:136][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.05.11-12.25.36:137][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.11-12.25.36:410][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.11-12.25.36:423][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.11-12.25.36:423][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000192208D3C00), frame # 0
+[2022.05.11-12.25.36:424][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019220962D40), frame # 0
+[2022.05.11-12.25.36:450][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.11-12.25.36:450][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.11-12.25.36:450][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.11-12.25.36:450][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.11-12.25.36:450][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.11-12.25.36:450][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.11-12.25.36:450][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.11-12.25.36:450][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.11-12.25.36:450][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.11-12.25.36:450][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.11-12.25.36:492][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.11-12.25.36:492][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.05.11-12.25.36:594][  0]LogAudioMixer: Display: Using Audio Device Наушники гарнитуры (HyperX Virtual Surround Sound)
+[2022.05.11-12.25.36:600][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.11-12.25.36:609][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.11-12.25.36:609][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.11-12.25.36:611][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.11-12.25.36:613][  0]LogInit: FAudioDevice initialized.
+[2022.05.11-12.25.36:613][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.11-12.25.36:943][  0]LogDerivedDataCache: Saved boot cache 0.33s 75MB C:/Users/User/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2022.05.11-12.25.36:943][  0]LogInit: Texture streaming: Enabled
+[2022.05.11-12.25.36:979][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.11-12.25.36:979][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.05.11-12.25.36:985][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.05.11-12.25.37:744][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Android/Scalability.ini]
+[2022.05.11-12.25.37:744][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.11-12.25.37:744][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2022.05.11-12.25.37:744][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Android/Scalability.ini]
+[2022.05.11-12.25.37:744][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2022.05.11-12.25.37:744][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Android/Scalability.ini]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Android/Scalability.ini]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.11-12.25.37:745][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Android/Scalability.ini]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Android/Scalability.ini]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.SSGI.Quality:4]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:2]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.05.11-12.25.37:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2022.05.11-12.25.37:747][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.05.11-12.25.37:747][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.11-12.25.37:747][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2022.05.11-12.25.37:747][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2022.05.11-12.25.37:747][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:4]]
+[2022.05.11-12.25.37:747][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Android/Scalability.ini]
+[2022.05.11-12.25.37:747][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.11-12.25.37:747][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.11-12.25.37:747][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Config/Android/Scalability.ini]
+[2022.05.11-12.25.37:747][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:64]]
+[2022.05.11-12.25.37:747][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:1]]
+[2022.05.11-12.25.37:747][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:32]]
+[2022.05.11-12.25.37:747][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:1]]
+[2022.05.11-12.25.37:747][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:1]]
+[2022.05.11-12.25.37:747][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2022.05.11-12.25.37:747][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:1]]
+[2022.05.11-12.25.37:747][  0]LogInit: Transaction tracking system initialized
+[2022.05.11-12.25.37:794][  0]BlueprintLog: New page: Editor Load
+[2022.05.11-12.25.37:942][  0]LocalizationService: Localization service is disabled
+[2022.05.11-12.25.38:926][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.05.11-12.25.38:926][  0]LogCook: Display: Mobile HDR setting 1
+[2022.05.11-12.25.39:239][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/AndroidRunner/Content/' took 0.01s
+[2022.05.11-12.25.39:590][  0]SourceControl: Source control is disabled
+[2022.05.11-12.25.39:590][  0]LogUnrealEdMisc: Loading editor; pre map load, took 26.626
+[2022.05.11-12.25.39:590][  0]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/menu/menulvl.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=1
+[2022.05.11-12.25.39:592][  0]LightingResults: New page: Lighting Build
+[2022.05.11-12.25.39:593][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-12.25.39:593][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-12.25.39:593][  0]MapCheck: New page: Map Check
+[2022.05.11-12.25.39:593][  0]LightingResults: New page: Lighting Build
+[2022.05.11-12.25.39:641][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000192208D3C00), frame # 0
+[2022.05.11-12.25.39:641][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019220962D40), frame # 0
+[2022.05.11-12.25.39:643][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.05.11-12.25.40:199][  0]LogAIModule: Creating AISystem for world menulvl
+[2022.05.11-12.25.40:199][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001920BF4BE00), frame # 0
+[2022.05.11-12.25.40:199][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001920956B9C0), frame # 0
+[2022.05.11-12.25.40:219][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.11-12.25.40:265][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.05.11-12.25.40:266][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.11-12.25.40:266][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,372ms to complete.
+[2022.05.11-12.25.40:266][  0]LogFileHelpers: Loading map 'menulvl' took 0.676
+[2022.05.11-12.25.40:270][  0]LogUnrealEdMisc: Total Editor Startup Time, took 27.307
+[2022.05.11-12.25.40:427][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.11-12.25.40:440][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.11-12.25.40:451][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.11-12.25.40:461][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.11-12.25.40:473][  0]LogCollectionManager: Loaded 0 collections in 0.001803 seconds
+[2022.05.11-12.25.40:500][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Collections/' took 0.00s
+[2022.05.11-12.25.40:500][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/AndroidRunner/Content/Developers/User/Collections/' took 0.00s
+[2022.05.11-12.25.40:500][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/AndroidRunner/Content/Collections/' took 0.00s
+[2022.05.11-12.25.40:500][  0]LogContentBrowser: Native class hierarchy populated in 0.0175 seconds. Added 3424 classes and 818 folders.
+[2022.05.11-12.25.40:507][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.05.11-12.25.40:710][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.05.11-12.25.40:717][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2022.05.11-12.25.41:559][  0]LogSlate: Took 0.001918 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.11-12.25.41:566][  0]LogSlate: Took 0.001824 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.11-12.25.41:573][  0]LogSlate: Took 0.001454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.11-12.25.41:706][  0]LogRenderer: Reallocating scene render targets to support 1716x808 Format 10 NumSamples 1 (Frame:1).
+[2022.05.11-12.25.41:921][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.05.11-12.25.41:922][  0]LogLoad: (Engine Initialization) Total time: 28.96 seconds
+[2022.05.11-12.25.41:922][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.11-12.25.41:993][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2022.05.11-12.25.42:078][  1]LogAssetRegistry: Asset discovery search completed in 10.0244 seconds
+[2022.05.11-12.25.42:088][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2022.05.11-12.25.43:435][  5]LogSlate: Took 0.018429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.11-12.25.55:483][ 42]LogDerivedDataCache: Warning: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.01MB/s) when accessing C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/8/TEXTURE_564290F8998644E39A2118D5C683187B_BC5_1A18AA4543FB97A88BCD41B78D060DC7___682F1BA59F27CEAECFCEBC717FA98D217DA363BB.udd, consider disabling it.
+[2022.05.11-12.25.55:483][ 42]LogDerivedDataCache: Warning: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.00MB/s) when accessing C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/9/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_4CDC53EF42A6351C8B8A698CB48A1__F3D3B50F37BF854C3DE75A3845EDBD08C1C5C663.udd, consider disabling it.
+[2022.05.11-12.25.55:483][ 42]LogDerivedDataCache: Warning: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.00MB/s) when accessing C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/1/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_61D4116B408DFE01F0FBC5BADDBF9__5AB8D95C13F3DB7AD580485657F5F5D913384EF6.udd, consider disabling it.
+[2022.05.11-12.25.55:483][ 42]LogDerivedDataCache: Warning: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.00MB/s) when accessing C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/1/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_D713535A4663957825B9E69ECDFC9__BEAF65C1078BDD50EBAF22A3E56AEBCD4BAE7B76.udd, consider disabling it.
+[2022.05.11-12.26.34:645][618]LogAssetEditorSubsystem: Opening Asset editor for World /Game/myfolders/Levels/1level.1level
+[2022.05.11-12.26.34:701][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.05.11-12.26.34:704][618]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/Levels/1level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=1
+[2022.05.11-12.26.34:707][618]LightingResults: New page: Lighting Build
+[2022.05.11-12.26.34:707][618]LoadErrors: New page: Loading map: 1level.umap
+[2022.05.11-12.26.34:757][618]LogWorld: UWorld::CleanupWorld for menulvl, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-12.26.34:757][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-12.26.34:757][618]MapCheck: New page: Map Check
+[2022.05.11-12.26.34:757][618]LightingResults: New page: Lighting Build
+[2022.05.11-12.26.34:812][618]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001920BF4BE00), frame # 618
+[2022.05.11-12.26.34:813][618]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001920956B9C0), frame # 618
+[2022.05.11-12.26.34:814][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.05.11-12.26.34:817][618]LogWorld: Changing Feature Level (Enum) from 3 to 1
+[2022.05.11-12.26.34:821][618]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d3_4.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-12.26.34:821][618]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d4_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-12.26.34:821][618]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d5_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-12.26.34:821][618]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d6_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-12.26.34:821][618]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d7_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-12.26.34:822][618]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d8_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-12.26.34:822][618]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d9_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-12.26.34:823][618]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult2_15.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-12.26.34:823][618]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.finishthing_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=9.250 Z=1.000
+[2022.05.11-12.26.34:824][618]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d1_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-12.26.34:824][618]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d2_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-12.26.34:830][618]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d3_4.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-12.26.34:832][618]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d4_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-12.26.34:834][618]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d5_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-12.26.34:837][618]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d6_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-12.26.34:839][618]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d7_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-12.26.34:841][618]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d8_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-12.26.34:843][618]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d9_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-12.26.34:861][618]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult2_15.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-12.26.34:864][618]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.finishthing_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=9.250 Z=1.000
+[2022.05.11-12.26.34:865][618]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d1_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-12.26.34:867][618]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d2_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-12.26.34:997][618]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.11-12.26.34:997][618]LogAIModule: Creating AISystem for world 1level
+[2022.05.11-12.26.34:997][618]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001923907C400), frame # 618
+[2022.05.11-12.26.34:997][618]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000192436DF880), frame # 618
+[2022.05.11-12.26.35:051][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.05.11-12.26.35:131][618]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.11-12.26.35:131][618]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,186ms to complete.
+[2022.05.11-12.26.35:131][618]LogFileHelpers: Loading map '1level' took 0.427
+[2022.05.11-12.26.35:947][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.05.11-13.17.18:923][640]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.05.11-13.17.19:287][640]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 125 classes and 0 folders.
+[2022.05.11-13.17.20:809][640]LogWorld: Changing Feature Level (Enum) from 3 to 1
+[2022.05.11-13.17.20:818][640]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult2_15.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-13.17.20:819][640]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.finishthing_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=9.250 Z=1.000
+[2022.05.11-13.17.20:819][640]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d1_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-13.17.20:819][640]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d2_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-13.17.20:819][640]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d3_4.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-13.17.20:819][640]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d4_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-13.17.20:819][640]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d5_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-13.17.20:819][640]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d6_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-13.17.20:819][640]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d7_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-13.17.20:819][640]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d8_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-13.17.20:819][640]LogPhysics: Warning: Scale for /Game/myfolders/Levels/1level.1level:PersistentLevel.scoremult1d9_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-13.17.21:001][640]LogSlate: Took 0.001590 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.11-13.17.21:120][641]LogSlate: Took 0.001724 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.11-13.17.22:665][769]LogRenderer: Reallocating scene render targets to support 1716x980 Format 10 NumSamples 1 (Frame:1).
+[2022.05.11-13.17.30:686][459]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.05.11-13.17.30:884][459]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2022.05.11-13.17.30:986][459]LogSlate: Took 0.002010 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.11-13.17.34:153][729]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.05.11-13.17.34:258][729]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2022.05.11-13.17.35:120][729]LogSlate: Window 'Save Content' being destroyed
+[2022.05.11-13.17.35:423][729]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Saved/ThirdPersonCharacterD209D4BE40DC994F49C7968396B478C6.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.05.11-13.17.35:472][730]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.05.11-13.17.35:472][730]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.05.11-13.18.36:400][991]LogEditorTransaction: Undo Modify Component(s)
+[2022.05.11-13.18.37:031][ 15]LogEditorTransaction: Undo Set Rotation
+[2022.05.11-13.18.50:849][276]LogEditorTransaction: Undo Set Rotation
+[2022.05.11-13.19.12:394][196]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.05.11-13.19.12:715][196]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2022.05.11-13.19.13:945][303]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.05.11-13.19.14:052][303]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2022.05.11-13.19.14:664][303]LogSlate: Window 'Save Content' being destroyed
+[2022.05.11-13.19.14:887][303]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Saved/ThirdPersonCharacterC860AFA948EC275F41A8C19E83AA1CAA.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.05.11-13.19.14:963][304]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.05.11-13.19.14:963][304]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.05.11-13.21.32:265][914]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.05.11-13.21.32:430][914]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2022.05.11-13.21.33:902][ 42]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.05.11-13.21.34:005][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2022.05.11-13.21.34:851][ 42]LogSlate: Window 'Save Content' being destroyed
+[2022.05.11-13.21.35:073][ 42]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Saved/ThirdPersonCharacter51BDB66E4F51BE0FF250B3BA2D168A1C.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.05.11-13.21.35:122][ 43]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.05.11-13.21.35:122][ 43]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.05.11-13.26.13:623][948]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.05.11-13.26.13:713][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.05.11-13.30.19:458][ 19]LogAudioEditor: Performing atomic reimport of [C:/Users/User/Desktop/UE4 ШТУУКИ/sounds for games/phonerunner/linefinish.wav]
+[2022.05.11-13.30.19:478][ 19]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/User/Desktop/UE4 ШТУУКИ/sounds for games/phonerunner/linefinish.wav)
+[2022.05.11-13.30.19:503][ 19]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave linefinish...
+[2022.05.11-13.30.19:503][ 19]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/myfolders/objects/finish/linefinish.linefinish will be modified from 40 to 40.
+[2022.05.11-13.30.19:660][ 19]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 196872 while cooking SoundWave /Game/myfolders/objects/finish/linefinish.linefinish.
+[2022.05.11-13.30.19:681][ 19]LogAudioEditor: -- imported successfully
+[2022.05.11-13.30.19:682][ 19]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave linefinish...
+[2022.05.11-13.30.19:682][ 19]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/myfolders/objects/finish/linefinish.linefinish will be modified from 40 to 40.
+[2022.05.11-13.30.25:320][579]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/myfolders/objects/finish/linefinish.linefinish
+[2022.05.11-13.30.28:767][816]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Saved/linefinish8F241E424987893E6CA09280AF58E42D.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/objects/finish/linefinish.uasset'
+[2022.05.11-13.30.28:813][816]AssetCheck: New page: Asset Save: linefinish
+[2022.05.11-13.30.28:813][816]LogContentValidation: Display: Validating SoundWave /Game/myfolders/objects/finish/linefinish.linefinish
+[2022.05.11-13.30.29:383][860]LogSlate: Window 'linefinish' being destroyed
+[2022.05.11-13.30.37:086][513]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.05.11-13.30.37:184][513]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2022.05.11-13.33.09:004][604]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/myfolders/objects/finish/linefinish.linefinish
+[2022.05.11-13.33.12:911][835]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Saved/linefinish56E3B7504569F143A8AAB591C685B8C6.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/objects/finish/linefinish.uasset'
+[2022.05.11-13.33.12:962][835]AssetCheck: New page: Asset Save: linefinish
+[2022.05.11-13.33.12:962][835]LogContentValidation: Display: Validating SoundWave /Game/myfolders/objects/finish/linefinish.linefinish
+[2022.05.11-13.33.13:416][862]LogSlate: Window 'linefinish' being destroyed
+[2022.05.11-13.33.14:390][937]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.05.11-13.33.14:494][937]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.05.11-13.33.37:890][424]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/myfolders/objects/finish/linefinish.linefinish
+[2022.05.11-13.33.43:264][826]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Saved/linefinishEA5E06734F34411A82D2A8BF37504D3E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/objects/finish/linefinish.uasset'
+[2022.05.11-13.33.43:305][826]AssetCheck: New page: Asset Save: linefinish
+[2022.05.11-13.33.43:305][826]LogContentValidation: Display: Validating SoundWave /Game/myfolders/objects/finish/linefinish.linefinish
+[2022.05.11-13.33.43:752][863]LogSlate: Window 'linefinish' being destroyed
+[2022.05.11-13.33.44:391][910]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.05.11-13.33.44:493][910]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2022.05.11-13.39.41:418][382]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.05.11-13.39.41:419][382]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.05.11-13.53.21:305][299]LogTcpMessaging: Started Connection to '127.0.0.1:6666'
+[2022.05.11-13.56.50:049][921]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.05.11-13.56.50:049][921]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.05.11-13.56.55:675][399]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/myfolders/objects/finish/linefinish.linefinish
+[2022.05.11-13.57.01:545][882]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Saved/linefinish22143B27407EFAE18FB25C83E37536C8.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/objects/finish/linefinish.uasset'
+[2022.05.11-13.57.01:587][882]AssetCheck: New page: Asset Save: linefinish
+[2022.05.11-13.57.01:588][882]LogContentValidation: Display: Validating SoundWave /Game/myfolders/objects/finish/linefinish.linefinish
+[2022.05.11-13.57.02:162][924]LogSlate: Window 'linefinish' being destroyed
+[2022.05.11-13.57.06:651][337]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/myfolders/objects/finish/linefinish.linefinish
+[2022.05.11-13.57.10:666][642]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Saved/linefinish3436681D4CAEB4AAFD2AD99900794938.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/objects/finish/linefinish.uasset'
+[2022.05.11-13.57.10:699][642]AssetCheck: New page: Asset Save: linefinish
+[2022.05.11-13.57.10:699][642]LogContentValidation: Display: Validating SoundWave /Game/myfolders/objects/finish/linefinish.linefinish
+[2022.05.11-13.57.11:272][691]LogSlate: Window 'linefinish' being destroyed
+[2022.05.11-13.57.13:443][860]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/myfolders/objects/finish/linefinish.linefinish
+[2022.05.11-13.57.16:015][ 34]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Saved/linefinish1F92E50D422399ACCDD4AF8D9F3AAAE1.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/objects/finish/linefinish.uasset'
+[2022.05.11-13.57.16:062][ 34]AssetCheck: New page: Asset Save: linefinish
+[2022.05.11-13.57.16:062][ 34]LogContentValidation: Display: Validating SoundWave /Game/myfolders/objects/finish/linefinish.linefinish
+[2022.05.11-13.57.16:453][ 68]LogSlate: Window 'linefinish' being destroyed
+[2022.05.11-13.57.17:918][178]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/myfolders/objects/finish/linefinish.linefinish
+[2022.05.11-13.57.20:842][388]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Saved/linefinishC837222D4F6D1DB817993488703CE870.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/objects/finish/linefinish.uasset'
+[2022.05.11-13.57.20:883][388]AssetCheck: New page: Asset Save: linefinish
+[2022.05.11-13.57.20:883][388]LogContentValidation: Display: Validating SoundWave /Game/myfolders/objects/finish/linefinish.linefinish
+[2022.05.11-13.57.21:323][425]LogSlate: Window 'linefinish' being destroyed
+[2022.05.11-13.57.24:052][649]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.05.11-13.57.24:151][649]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2022.05.11-14.00.19:675][818]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.05.11-14.00.19:675][818]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.05.11-14.00.57:725][161]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/myfolders/gui/playerhp.playerhp
+[2022.05.11-14.01.43:444][238]LogSlate: Window 'playerhp' being destroyed
+[2022.05.11-14.01.43:487][238]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-14.01.43:487][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-14.01.43:534][238]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-14.01.43:534][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-14.01.55:270][477]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/myfolders/winscreens/winscreen.winscreen
+[2022.05.11-14.02.09:435][887]LogSlate: Window 'winscreen' being destroyed
+[2022.05.11-14.02.09:464][887]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-14.02.09:464][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-14.02.09:471][887]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-14.02.09:471][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-14.02.15:221][475]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/myfolders/gui/playerhp.playerhp
+[2022.05.11-14.02.54:237][844]LogUObjectHash: Compacting FUObjectHashTables data took   8.64ms
+[2022.05.11-14.02.54:240][844]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/myfolders/Levels/1level' took 0.135
+[2022.05.11-14.02.54:241][844]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/myfolders/gui/playerhp] ([1] browsable assets)...
+[2022.05.11-14.02.54:241][844]OBJ SavePackage: Finished generating thumbnails for package [/Game/myfolders/gui/playerhp]
+[2022.05.11-14.02.54:371][844]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Saved/playerhp_Auto1AFE772364707240784152AA94B395004.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Saved/Autosaves/Game/myfolders/gui/playerhp_Auto1.uasset'
+[2022.05.11-14.02.54:381][844]LogFileHelpers: Auto-saving content packages took 0.141
+[2022.05.11-14.03.24:817][223]BlueprintLog: New page: Compile playerhp
+[2022.05.11-14.03.24:913][223]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2022.05.11-14.03.25:511][265]LogSlate: Window 'playerhp' being destroyed
+[2022.05.11-14.03.25:560][265]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-14.03.25:560][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-14.03.25:603][265]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-14.03.25:603][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-14.03.26:158][298]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.05.11-14.03.26:274][298]LogUObjectHash: Compacting FUObjectHashTables data took   7.61ms
+[2022.05.11-14.03.27:217][298]LogSlate: Window 'Save Content' being destroyed
+[2022.05.11-14.03.27:270][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myfolders/gui/playerhp" FILE="../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/gui/playerhp.uasset" SILENT=true
+[2022.05.11-14.03.27:362][298]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Saved/playerhpD743495641C0C4E1F12743A65CC7F1D4.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/gui/playerhp.uasset'
+[2022.05.11-14.03.27:436][299]AssetCheck: New page: Asset Save: playerhp
+[2022.05.11-14.03.27:436][299]LogContentValidation: Display: Validating WidgetBlueprint /Game/myfolders/gui/playerhp.playerhp
+[2022.05.11-14.03.46:253][769]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/myfolders/gui/playerhp.playerhp
+[2022.05.11-14.04.55:727][231]BlueprintLog: New page: Compile playerhp
+[2022.05.11-14.04.55:739][231]LogBlueprint: Warning: [Compiler playerhp] Get Current Level Name  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2022.05.11-14.04.55:830][231]LogUObjectHash: Compacting FUObjectHashTables data took   6.96ms
+[2022.05.11-14.05.08:656][ 73]BlueprintLog: New page: Compile playerhp
+[2022.05.11-14.05.08:753][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   7.32ms
+[2022.05.11-14.05.10:260][161]LogSlate: Window 'playerhp' being destroyed
+[2022.05.11-14.05.10:318][161]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-14.05.10:319][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-14.05.10:326][161]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-14.05.10:326][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-14.05.11:041][220]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.05.11-14.05.11:165][220]LogUObjectHash: Compacting FUObjectHashTables data took   9.10ms
+[2022.05.11-14.05.12:181][220]LogSlate: Window 'Save Content' being destroyed
+[2022.05.11-14.05.12:242][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myfolders/gui/playerhp" FILE="../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/gui/playerhp.uasset" SILENT=true
+[2022.05.11-14.05.12:345][220]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Saved/playerhp63B57DFB40C32E14C1DA4AA248C22DDF.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/gui/playerhp.uasset'
+[2022.05.11-14.05.12:415][221]AssetCheck: New page: Asset Save: playerhp
+[2022.05.11-14.05.12:415][221]LogContentValidation: Display: Validating WidgetBlueprint /Game/myfolders/gui/playerhp.playerhp
+[2022.05.11-14.05.43:311][180]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/myfolders/gui/playerhp.playerhp
+[2022.05.11-14.06.01:085][373]BlueprintLog: New page: Compile playerhp
+[2022.05.11-14.06.01:173][373]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2022.05.11-14.07.00:525][910]BlueprintLog: New page: Compile playerhp
+[2022.05.11-14.07.00:622][910]LogUObjectHash: Compacting FUObjectHashTables data took   8.12ms
+[2022.05.11-14.07.01:278][951]LogSlate: Window 'playerhp' being destroyed
+[2022.05.11-14.07.01:339][951]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-14.07.01:339][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-14.07.01:400][951]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-14.07.01:400][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-14.07.02:642][ 62]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.05.11-14.07.02:758][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   7.08ms
+[2022.05.11-14.07.03:639][ 62]LogSlate: Window 'Save Content' being destroyed
+[2022.05.11-14.07.03:708][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myfolders/gui/playerhp" FILE="../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/gui/playerhp.uasset" SILENT=true
+[2022.05.11-14.07.03:809][ 62]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Saved/playerhpDEAE5FA847C2C7ACE2F8A0951A6A133B.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/gui/playerhp.uasset'
+[2022.05.11-14.07.03:873][ 63]AssetCheck: New page: Asset Save: playerhp
+[2022.05.11-14.07.03:874][ 63]LogContentValidation: Display: Validating WidgetBlueprint /Game/myfolders/gui/playerhp.playerhp
+[2022.05.11-14.09.19:367][418]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/myfolders/gui/playerhp.playerhp
+[2022.05.11-14.09.27:010][841]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.11-14.10.12:534][550]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.11-14.10.15:011][691]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.11-14.10.49:300][835]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.11-14.10.53:707][ 87]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.11-14.10.58:456][350]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.11-14.11.01:909][541]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.11-14.11.09:559][  8]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.11-14.11.13:343][218]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.11-14.11.33:851][449]BlueprintLog: New page: Compile playerhp
+[2022.05.11-14.11.33:940][449]LogUObjectHash: Compacting FUObjectHashTables data took   7.26ms
+[2022.05.11-14.11.34:474][488]LogSlate: Window 'playerhp' being destroyed
+[2022.05.11-14.11.34:520][488]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-14.11.34:520][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-14.11.34:567][488]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-14.11.34:567][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-14.11.35:379][556]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2022.05.11-14.11.35:498][556]LogUObjectHash: Compacting FUObjectHashTables data took   6.95ms
+[2022.05.11-14.11.36:914][556]LogSlate: Window 'Save Content' being destroyed
+[2022.05.11-14.11.36:995][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myfolders/gui/playerhp" FILE="../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/gui/playerhp.uasset" SILENT=true
+[2022.05.11-14.11.37:091][556]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Saved/playerhp2A3122514F7840857D496FBE99DEACCA.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/gui/playerhp.uasset'
+[2022.05.11-14.11.37:159][557]AssetCheck: New page: Asset Save: playerhp
+[2022.05.11-14.11.37:159][557]LogContentValidation: Display: Validating WidgetBlueprint /Game/myfolders/gui/playerhp.playerhp
+[2022.05.11-14.12.06:111][194]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/myfolders/gui/playerhp.playerhp
+[2022.05.11-14.12.45:482][376]BlueprintLog: New page: Compile playerhp
+[2022.05.11-14.12.45:576][376]LogUObjectHash: Compacting FUObjectHashTables data took   8.01ms
+[2022.05.11-14.12.46:343][412]LogSlate: Window 'playerhp' being destroyed
+[2022.05.11-14.12.46:391][412]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-14.12.46:391][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-14.12.46:435][412]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-14.12.46:435][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-14.13.00:849][992]LogUObjectHash: Compacting FUObjectHashTables data took   7.65ms
+[2022.05.11-14.13.01:042][992]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2022.05.11-14.13.01:188][992]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Saved/1levelC8C05F0F4E7D24D0270C1A9F1C530C65.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/Levels/1level.umap'
+[2022.05.11-14.13.01:262][992]LogFileHelpers: Saving map '1level' took 0.303
+[2022.05.11-14.13.01:869][992]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2022.05.11-14.13.01:986][992]AssetCheck: New page: Asset Save: 1LEVEl
+[2022.05.11-14.13.01:986][992]LogContentValidation: Display: Validating World /Game/myfolders/Levels/1level.1LEVEl
+[2022.05.11-14.13.11:125][871]LogUObjectHash: Compacting FUObjectHashTables data took   9.83ms
+[2022.05.11-14.13.11:191][871]LogPhysics: Warning: Scale for /Game/myfolders/Levels/2level.2LEVEl:PersistentLevel.scoremult1d4_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.11:191][871]LogPhysics: Warning: Scale for /Game/myfolders/Levels/2level.2LEVEl:PersistentLevel.scoremult1d3_4.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.11:192][871]LogPhysics: Warning: Scale for /Game/myfolders/Levels/2level.2LEVEl:PersistentLevel.scoremult1d5_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.11:192][871]LogPhysics: Warning: Scale for /Game/myfolders/Levels/2level.2LEVEl:PersistentLevel.scoremult1d6_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.11:192][871]LogPhysics: Warning: Scale for /Game/myfolders/Levels/2level.2LEVEl:PersistentLevel.scoremult1d7_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.11:192][871]LogPhysics: Warning: Scale for /Game/myfolders/Levels/2level.2LEVEl:PersistentLevel.scoremult1d8_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.11:192][871]LogPhysics: Warning: Scale for /Game/myfolders/Levels/2level.2LEVEl:PersistentLevel.scoremult1d9_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.11:193][871]LogPhysics: Warning: Scale for /Game/myfolders/Levels/2level.2LEVEl:PersistentLevel.scoremult2_15.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.11:193][871]LogPhysics: Warning: Scale for /Game/myfolders/Levels/2level.2LEVEl:PersistentLevel.scoremult1d1_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.11:193][871]LogPhysics: Warning: Scale for /Game/myfolders/Levels/2level.2LEVEl:PersistentLevel.scoremult1d2_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.11:193][871]LogPhysics: Warning: Scale for /Game/myfolders/Levels/2level.2LEVEl:PersistentLevel.finishthing_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=9.250 Z=1.000
+[2022.05.11-14.13.11:234][871]LogPhysics: Warning: Scale for /Game/myfolders/Levels/2level.2LEVEl:PersistentLevel.scoremult1d4_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.11:236][871]LogPhysics: Warning: Scale for /Game/myfolders/Levels/2level.2LEVEl:PersistentLevel.scoremult1d3_4.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.11:238][871]LogPhysics: Warning: Scale for /Game/myfolders/Levels/2level.2LEVEl:PersistentLevel.scoremult1d5_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.11:241][871]LogPhysics: Warning: Scale for /Game/myfolders/Levels/2level.2LEVEl:PersistentLevel.scoremult1d6_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.11:243][871]LogPhysics: Warning: Scale for /Game/myfolders/Levels/2level.2LEVEl:PersistentLevel.scoremult1d7_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.11:245][871]LogPhysics: Warning: Scale for /Game/myfolders/Levels/2level.2LEVEl:PersistentLevel.scoremult1d8_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.11:247][871]LogPhysics: Warning: Scale for /Game/myfolders/Levels/2level.2LEVEl:PersistentLevel.scoremult1d9_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.11:249][871]LogPhysics: Warning: Scale for /Game/myfolders/Levels/2level.2LEVEl:PersistentLevel.scoremult2_15.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.11:251][871]LogPhysics: Warning: Scale for /Game/myfolders/Levels/2level.2LEVEl:PersistentLevel.scoremult1d1_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.11:280][871]LogPhysics: Warning: Scale for /Game/myfolders/Levels/2level.2LEVEl:PersistentLevel.scoremult1d2_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.11:282][871]LogPhysics: Warning: Scale for /Game/myfolders/Levels/2level.2LEVEl:PersistentLevel.finishthing_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=9.250 Z=1.000
+[2022.05.11-14.13.11:406][871]LogUObjectHash: Compacting FUObjectHashTables data took   7.05ms
+[2022.05.11-14.13.11:584][871]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Saved/2level05C4043F494047759BA04188D1B2E479.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/Levels/2level.umap'
+[2022.05.11-14.13.11:628][871]LogFileHelpers: Saving map '2level' took 0.445
+[2022.05.11-14.13.12:163][871]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2022.05.11-14.13.12:236][871]AssetCheck: New page: Asset Save: 2LEVEl
+[2022.05.11-14.13.12:236][871]LogContentValidation: Display: Validating World /Game/myfolders/Levels/2level.2LEVEl
+[2022.05.11-14.13.14:490][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   7.20ms
+[2022.05.11-14.13.14:492][ 38]LogMetaData: Removing '/Game/myfolders/Levels/LEVEl.LEVEl_C' ref from Metadata '/Game/myfolders/Levels/3level.PackageMetaData'
+[2022.05.11-14.13.14:492][ 38]LogMetaData: Removing '/Game/myfolders/Levels/LEVEl.SKEL_LEVEl_C' ref from Metadata '/Game/myfolders/Levels/3level.PackageMetaData'
+[2022.05.11-14.13.14:561][ 38]LogPhysics: Warning: Scale for /Game/myfolders/Levels/LEVEl.LEVEl:PersistentLevel.scoremult1d4_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.14:562][ 38]LogPhysics: Warning: Scale for /Game/myfolders/Levels/LEVEl.LEVEl:PersistentLevel.scoremult1d3_4.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.14:562][ 38]LogPhysics: Warning: Scale for /Game/myfolders/Levels/LEVEl.LEVEl:PersistentLevel.scoremult1d5_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.14:563][ 38]LogPhysics: Warning: Scale for /Game/myfolders/Levels/LEVEl.LEVEl:PersistentLevel.scoremult1d6_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.14:563][ 38]LogPhysics: Warning: Scale for /Game/myfolders/Levels/LEVEl.LEVEl:PersistentLevel.scoremult1d7_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.14:564][ 38]LogPhysics: Warning: Scale for /Game/myfolders/Levels/LEVEl.LEVEl:PersistentLevel.scoremult1d8_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.14:564][ 38]LogPhysics: Warning: Scale for /Game/myfolders/Levels/LEVEl.LEVEl:PersistentLevel.scoremult1d9_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.14:564][ 38]LogPhysics: Warning: Scale for /Game/myfolders/Levels/LEVEl.LEVEl:PersistentLevel.scoremult2_15.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.14:565][ 38]LogPhysics: Warning: Scale for /Game/myfolders/Levels/LEVEl.LEVEl:PersistentLevel.scoremult1d1_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.14:565][ 38]LogPhysics: Warning: Scale for /Game/myfolders/Levels/LEVEl.LEVEl:PersistentLevel.scoremult1d2_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.14:565][ 38]LogPhysics: Warning: Scale for /Game/myfolders/Levels/LEVEl.LEVEl:PersistentLevel.finishthing_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=9.250 Z=1.000
+[2022.05.11-14.13.14:602][ 38]LogPhysics: Warning: Scale for /Game/myfolders/Levels/LEVEl.LEVEl:PersistentLevel.scoremult1d4_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.14:603][ 38]LogPhysics: Warning: Scale for /Game/myfolders/Levels/LEVEl.LEVEl:PersistentLevel.scoremult1d3_4.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.14:605][ 38]LogPhysics: Warning: Scale for /Game/myfolders/Levels/LEVEl.LEVEl:PersistentLevel.scoremult1d5_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.14:607][ 38]LogPhysics: Warning: Scale for /Game/myfolders/Levels/LEVEl.LEVEl:PersistentLevel.scoremult1d6_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.14:609][ 38]LogPhysics: Warning: Scale for /Game/myfolders/Levels/LEVEl.LEVEl:PersistentLevel.scoremult1d7_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.14:611][ 38]LogPhysics: Warning: Scale for /Game/myfolders/Levels/LEVEl.LEVEl:PersistentLevel.scoremult1d8_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.14:613][ 38]LogPhysics: Warning: Scale for /Game/myfolders/Levels/LEVEl.LEVEl:PersistentLevel.scoremult1d9_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.14:615][ 38]LogPhysics: Warning: Scale for /Game/myfolders/Levels/LEVEl.LEVEl:PersistentLevel.scoremult2_15.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.14:617][ 38]LogPhysics: Warning: Scale for /Game/myfolders/Levels/LEVEl.LEVEl:PersistentLevel.scoremult1d1_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.14:619][ 38]LogPhysics: Warning: Scale for /Game/myfolders/Levels/LEVEl.LEVEl:PersistentLevel.scoremult1d2_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.14:621][ 38]LogPhysics: Warning: Scale for /Game/myfolders/Levels/LEVEl.LEVEl:PersistentLevel.finishthing_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=9.250 Z=1.000
+[2022.05.11-14.13.14:693][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2022.05.11-14.13.14:797][ 38]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Saved/LEVEl623584EC4A87E44074A28792681200A2.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/Levels/LEVEl.umap'
+[2022.05.11-14.13.14:857][ 38]LogFileHelpers: Saving map 'LEVEl' took 0.305
+[2022.05.11-14.13.15:260][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.05.11-14.13.15:351][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2022.05.11-14.13.15:426][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.05.11-14.13.15:500][ 38]AssetCheck: New page: Asset Save: LEVEl
+[2022.05.11-14.13.15:500][ 38]LogContentValidation: Display: Validating World /Game/myfolders/Levels/LEVEl.LEVEl
+[2022.05.11-14.13.19:848][467]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2022.05.11-14.13.19:850][467]LogMetaData: Removing '/Game/myfolders/Levels/3LEVEl.3LEVEl_C' ref from Metadata '/Game/myfolders/Levels/LEVEl.PackageMetaData'
+[2022.05.11-14.13.19:850][467]LogMetaData: Removing '/Game/myfolders/Levels/3LEVEl.SKEL_3LEVEl_C' ref from Metadata '/Game/myfolders/Levels/LEVEl.PackageMetaData'
+[2022.05.11-14.13.19:923][467]LogPhysics: Warning: Scale for /Game/myfolders/Levels/3LEVEl.3LEVEl:PersistentLevel.scoremult1d4_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.19:924][467]LogPhysics: Warning: Scale for /Game/myfolders/Levels/3LEVEl.3LEVEl:PersistentLevel.scoremult1d3_4.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.19:924][467]LogPhysics: Warning: Scale for /Game/myfolders/Levels/3LEVEl.3LEVEl:PersistentLevel.scoremult1d5_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.19:924][467]LogPhysics: Warning: Scale for /Game/myfolders/Levels/3LEVEl.3LEVEl:PersistentLevel.scoremult1d6_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.19:924][467]LogPhysics: Warning: Scale for /Game/myfolders/Levels/3LEVEl.3LEVEl:PersistentLevel.scoremult1d7_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.19:924][467]LogPhysics: Warning: Scale for /Game/myfolders/Levels/3LEVEl.3LEVEl:PersistentLevel.scoremult1d8_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.19:925][467]LogPhysics: Warning: Scale for /Game/myfolders/Levels/3LEVEl.3LEVEl:PersistentLevel.scoremult1d9_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.19:925][467]LogPhysics: Warning: Scale for /Game/myfolders/Levels/3LEVEl.3LEVEl:PersistentLevel.scoremult2_15.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.19:925][467]LogPhysics: Warning: Scale for /Game/myfolders/Levels/3LEVEl.3LEVEl:PersistentLevel.scoremult1d1_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.19:925][467]LogPhysics: Warning: Scale for /Game/myfolders/Levels/3LEVEl.3LEVEl:PersistentLevel.scoremult1d2_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.19:925][467]LogPhysics: Warning: Scale for /Game/myfolders/Levels/3LEVEl.3LEVEl:PersistentLevel.finishthing_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=9.250 Z=1.000
+[2022.05.11-14.13.19:958][467]LogPhysics: Warning: Scale for /Game/myfolders/Levels/3LEVEl.3LEVEl:PersistentLevel.scoremult1d4_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.19:960][467]LogPhysics: Warning: Scale for /Game/myfolders/Levels/3LEVEl.3LEVEl:PersistentLevel.scoremult1d3_4.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.19:962][467]LogPhysics: Warning: Scale for /Game/myfolders/Levels/3LEVEl.3LEVEl:PersistentLevel.scoremult1d5_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.19:964][467]LogPhysics: Warning: Scale for /Game/myfolders/Levels/3LEVEl.3LEVEl:PersistentLevel.scoremult1d6_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.19:966][467]LogPhysics: Warning: Scale for /Game/myfolders/Levels/3LEVEl.3LEVEl:PersistentLevel.scoremult1d7_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.19:968][467]LogPhysics: Warning: Scale for /Game/myfolders/Levels/3LEVEl.3LEVEl:PersistentLevel.scoremult1d8_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.19:970][467]LogPhysics: Warning: Scale for /Game/myfolders/Levels/3LEVEl.3LEVEl:PersistentLevel.scoremult1d9_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.19:973][467]LogPhysics: Warning: Scale for /Game/myfolders/Levels/3LEVEl.3LEVEl:PersistentLevel.scoremult2_15.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.19:975][467]LogPhysics: Warning: Scale for /Game/myfolders/Levels/3LEVEl.3LEVEl:PersistentLevel.scoremult1d1_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.19:976][467]LogPhysics: Warning: Scale for /Game/myfolders/Levels/3LEVEl.3LEVEl:PersistentLevel.scoremult1d2_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.19:979][467]LogPhysics: Warning: Scale for /Game/myfolders/Levels/3LEVEl.3LEVEl:PersistentLevel.finishthing_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=9.250 Z=1.000
+[2022.05.11-14.13.20:052][467]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2022.05.11-14.13.20:133][467]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Saved/3LEVElE9645DD34FB89E9798101F904C112FB0.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/Levels/3LEVEl.umap'
+[2022.05.11-14.13.20:178][467]LogFileHelpers: Saving map '3LEVEl' took 0.261
+[2022.05.11-14.13.20:562][467]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2022.05.11-14.13.20:653][467]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.05.11-14.13.20:724][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.05.11-14.13.20:800][467]AssetCheck: New page: Asset Save: 3LEVEl
+[2022.05.11-14.13.20:800][467]LogContentValidation: Display: Validating World /Game/myfolders/Levels/3LEVEl.3LEVEl
+[2022.05.11-14.13.24:614][841]LogPhysics: Warning: Scale for /Game/myfolders/Levels/4level.4LEVEl:PersistentLevel.scoremult1d4_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.24:614][841]LogPhysics: Warning: Scale for /Game/myfolders/Levels/4level.4LEVEl:PersistentLevel.scoremult1d3_4.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.24:614][841]LogPhysics: Warning: Scale for /Game/myfolders/Levels/4level.4LEVEl:PersistentLevel.scoremult1d5_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.24:615][841]LogPhysics: Warning: Scale for /Game/myfolders/Levels/4level.4LEVEl:PersistentLevel.scoremult1d6_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.24:615][841]LogPhysics: Warning: Scale for /Game/myfolders/Levels/4level.4LEVEl:PersistentLevel.scoremult1d7_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.24:615][841]LogPhysics: Warning: Scale for /Game/myfolders/Levels/4level.4LEVEl:PersistentLevel.scoremult1d8_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.24:615][841]LogPhysics: Warning: Scale for /Game/myfolders/Levels/4level.4LEVEl:PersistentLevel.scoremult1d9_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.24:616][841]LogPhysics: Warning: Scale for /Game/myfolders/Levels/4level.4LEVEl:PersistentLevel.scoremult2_15.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.24:616][841]LogPhysics: Warning: Scale for /Game/myfolders/Levels/4level.4LEVEl:PersistentLevel.scoremult1d1_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.24:616][841]LogPhysics: Warning: Scale for /Game/myfolders/Levels/4level.4LEVEl:PersistentLevel.scoremult1d2_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.24:616][841]LogPhysics: Warning: Scale for /Game/myfolders/Levels/4level.4LEVEl:PersistentLevel.finishthing_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=9.250 Z=1.000
+[2022.05.11-14.13.24:644][841]LogPhysics: Warning: Scale for /Game/myfolders/Levels/4level.4LEVEl:PersistentLevel.scoremult1d4_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.24:646][841]LogPhysics: Warning: Scale for /Game/myfolders/Levels/4level.4LEVEl:PersistentLevel.scoremult1d3_4.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.24:648][841]LogPhysics: Warning: Scale for /Game/myfolders/Levels/4level.4LEVEl:PersistentLevel.scoremult1d5_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.24:650][841]LogPhysics: Warning: Scale for /Game/myfolders/Levels/4level.4LEVEl:PersistentLevel.scoremult1d6_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.24:652][841]LogPhysics: Warning: Scale for /Game/myfolders/Levels/4level.4LEVEl:PersistentLevel.scoremult1d7_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.24:653][841]LogPhysics: Warning: Scale for /Game/myfolders/Levels/4level.4LEVEl:PersistentLevel.scoremult1d8_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.24:655][841]LogPhysics: Warning: Scale for /Game/myfolders/Levels/4level.4LEVEl:PersistentLevel.scoremult1d9_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.24:657][841]LogPhysics: Warning: Scale for /Game/myfolders/Levels/4level.4LEVEl:PersistentLevel.scoremult2_15.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.24:659][841]LogPhysics: Warning: Scale for /Game/myfolders/Levels/4level.4LEVEl:PersistentLevel.scoremult1d1_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.24:661][841]LogPhysics: Warning: Scale for /Game/myfolders/Levels/4level.4LEVEl:PersistentLevel.scoremult1d2_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.24:663][841]LogPhysics: Warning: Scale for /Game/myfolders/Levels/4level.4LEVEl:PersistentLevel.finishthing_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=9.250 Z=1.000
+[2022.05.11-14.13.24:740][841]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2022.05.11-14.13.24:893][841]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Saved/4levelDFF054CB4569D5B2291C8EAFC542D08C.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/Levels/4level.umap'
+[2022.05.11-14.13.24:937][841]LogFileHelpers: Saving map '4level' took 0.329
+[2022.05.11-14.13.25:488][841]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.05.11-14.13.25:562][841]AssetCheck: New page: Asset Save: 4LEVEl
+[2022.05.11-14.13.25:562][841]LogContentValidation: Display: Validating World /Game/myfolders/Levels/4level.4LEVEl
+[2022.05.11-14.13.28:532][131]LogPhysics: Warning: Scale for /Game/myfolders/Levels/5level.5LEVEl:PersistentLevel.scoremult1d4_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.28:533][131]LogPhysics: Warning: Scale for /Game/myfolders/Levels/5level.5LEVEl:PersistentLevel.scoremult1d3_4.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.28:533][131]LogPhysics: Warning: Scale for /Game/myfolders/Levels/5level.5LEVEl:PersistentLevel.scoremult1d5_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.28:533][131]LogPhysics: Warning: Scale for /Game/myfolders/Levels/5level.5LEVEl:PersistentLevel.scoremult1d6_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.28:534][131]LogPhysics: Warning: Scale for /Game/myfolders/Levels/5level.5LEVEl:PersistentLevel.scoremult1d7_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.28:534][131]LogPhysics: Warning: Scale for /Game/myfolders/Levels/5level.5LEVEl:PersistentLevel.scoremult1d8_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.28:534][131]LogPhysics: Warning: Scale for /Game/myfolders/Levels/5level.5LEVEl:PersistentLevel.scoremult1d9_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.28:535][131]LogPhysics: Warning: Scale for /Game/myfolders/Levels/5level.5LEVEl:PersistentLevel.scoremult2_15.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.28:535][131]LogPhysics: Warning: Scale for /Game/myfolders/Levels/5level.5LEVEl:PersistentLevel.scoremult1d1_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.28:535][131]LogPhysics: Warning: Scale for /Game/myfolders/Levels/5level.5LEVEl:PersistentLevel.scoremult1d2_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.28:535][131]LogPhysics: Warning: Scale for /Game/myfolders/Levels/5level.5LEVEl:PersistentLevel.finishthing_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=9.250 Z=1.000
+[2022.05.11-14.13.28:580][131]LogPhysics: Warning: Scale for /Game/myfolders/Levels/5level.5LEVEl:PersistentLevel.scoremult1d4_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.28:582][131]LogPhysics: Warning: Scale for /Game/myfolders/Levels/5level.5LEVEl:PersistentLevel.scoremult1d3_4.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.28:584][131]LogPhysics: Warning: Scale for /Game/myfolders/Levels/5level.5LEVEl:PersistentLevel.scoremult1d5_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.28:586][131]LogPhysics: Warning: Scale for /Game/myfolders/Levels/5level.5LEVEl:PersistentLevel.scoremult1d6_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.28:588][131]LogPhysics: Warning: Scale for /Game/myfolders/Levels/5level.5LEVEl:PersistentLevel.scoremult1d7_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.28:590][131]LogPhysics: Warning: Scale for /Game/myfolders/Levels/5level.5LEVEl:PersistentLevel.scoremult1d8_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.28:592][131]LogPhysics: Warning: Scale for /Game/myfolders/Levels/5level.5LEVEl:PersistentLevel.scoremult1d9_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.28:594][131]LogPhysics: Warning: Scale for /Game/myfolders/Levels/5level.5LEVEl:PersistentLevel.scoremult2_15.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.28:595][131]LogPhysics: Warning: Scale for /Game/myfolders/Levels/5level.5LEVEl:PersistentLevel.scoremult1d1_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.28:597][131]LogPhysics: Warning: Scale for /Game/myfolders/Levels/5level.5LEVEl:PersistentLevel.scoremult1d2_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.28:599][131]LogPhysics: Warning: Scale for /Game/myfolders/Levels/5level.5LEVEl:PersistentLevel.finishthing_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=9.250 Z=1.000
+[2022.05.11-14.13.28:678][131]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2022.05.11-14.13.28:837][131]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Saved/5levelAF4C5AF64ABDF6972883EDBB1801A87B.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/Levels/5level.umap'
+[2022.05.11-14.13.28:894][131]LogFileHelpers: Saving map '5level' took 0.368
+[2022.05.11-14.13.29:453][131]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.05.11-14.13.29:529][131]AssetCheck: New page: Asset Save: 5LEVEl
+[2022.05.11-14.13.29:529][131]LogContentValidation: Display: Validating World /Game/myfolders/Levels/5level.5LEVEl
+[2022.05.11-14.13.32:495][414]LogPhysics: Warning: Scale for /Game/myfolders/Levels/6level.6LEVEl:PersistentLevel.scoremult1d4_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.32:496][414]LogPhysics: Warning: Scale for /Game/myfolders/Levels/6level.6LEVEl:PersistentLevel.scoremult1d3_4.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.32:496][414]LogPhysics: Warning: Scale for /Game/myfolders/Levels/6level.6LEVEl:PersistentLevel.scoremult1d5_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.32:496][414]LogPhysics: Warning: Scale for /Game/myfolders/Levels/6level.6LEVEl:PersistentLevel.scoremult1d6_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.32:497][414]LogPhysics: Warning: Scale for /Game/myfolders/Levels/6level.6LEVEl:PersistentLevel.scoremult1d7_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.32:497][414]LogPhysics: Warning: Scale for /Game/myfolders/Levels/6level.6LEVEl:PersistentLevel.scoremult1d8_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.32:497][414]LogPhysics: Warning: Scale for /Game/myfolders/Levels/6level.6LEVEl:PersistentLevel.scoremult1d9_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.32:498][414]LogPhysics: Warning: Scale for /Game/myfolders/Levels/6level.6LEVEl:PersistentLevel.scoremult2_15.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.32:498][414]LogPhysics: Warning: Scale for /Game/myfolders/Levels/6level.6LEVEl:PersistentLevel.scoremult1d1_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.32:498][414]LogPhysics: Warning: Scale for /Game/myfolders/Levels/6level.6LEVEl:PersistentLevel.scoremult1d2_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.32:499][414]LogPhysics: Warning: Scale for /Game/myfolders/Levels/6level.6LEVEl:PersistentLevel.finishthing_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=9.250 Z=1.000
+[2022.05.11-14.13.32:507][414]LogPhysics: Warning: Scale for /Game/myfolders/Levels/6level.6LEVEl:PersistentLevel.scoremult1d4_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.32:510][414]LogPhysics: Warning: Scale for /Game/myfolders/Levels/6level.6LEVEl:PersistentLevel.scoremult1d3_4.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.32:513][414]LogPhysics: Warning: Scale for /Game/myfolders/Levels/6level.6LEVEl:PersistentLevel.scoremult1d5_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.32:516][414]LogPhysics: Warning: Scale for /Game/myfolders/Levels/6level.6LEVEl:PersistentLevel.scoremult1d6_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.32:518][414]LogPhysics: Warning: Scale for /Game/myfolders/Levels/6level.6LEVEl:PersistentLevel.scoremult1d7_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.32:521][414]LogPhysics: Warning: Scale for /Game/myfolders/Levels/6level.6LEVEl:PersistentLevel.scoremult1d8_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.32:524][414]LogPhysics: Warning: Scale for /Game/myfolders/Levels/6level.6LEVEl:PersistentLevel.scoremult1d9_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.32:527][414]LogPhysics: Warning: Scale for /Game/myfolders/Levels/6level.6LEVEl:PersistentLevel.scoremult2_15.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.32:528][414]LogPhysics: Warning: Scale for /Game/myfolders/Levels/6level.6LEVEl:PersistentLevel.scoremult1d1_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.32:531][414]LogPhysics: Warning: Scale for /Game/myfolders/Levels/6level.6LEVEl:PersistentLevel.scoremult1d2_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.323 Z=1.698
+[2022.05.11-14.13.32:534][414]LogPhysics: Warning: Scale for /Game/myfolders/Levels/6level.6LEVEl:PersistentLevel.finishthing_8.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=9.250 Z=1.000
+[2022.05.11-14.13.32:635][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.05.11-14.13.32:792][414]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Saved/6level774A01E84FC270D30E7E29904E0D1189.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/AndroidRunner/Content/myfolders/Levels/6level.umap'
+[2022.05.11-14.13.32:838][414]LogFileHelpers: Saving map '6level' took 0.346
+[2022.05.11-14.13.33:422][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.05.11-14.13.33:497][414]AssetCheck: New page: Asset Save: 6LEVEl
+[2022.05.11-14.13.33:497][414]LogContentValidation: Display: Validating World /Game/myfolders/Levels/6level.6LEVEl
+[2022.05.11-14.13.45:484][795]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.05.11-14.13.47:574][795]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.090 s
+[2022.05.11-14.13.47:576][795]LogOutputDevice: Error: === Handled ensure: ===
+[2022.05.11-14.13.47:576][795]LogOutputDevice: Error: 
+[2022.05.11-14.13.47:576][795]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 222]
+[2022.05.11-14.13.47:576][795]LogOutputDevice: Error: Found circular redirect from /Game/myfolders/Levels/6LEVEL.6LEVEL to /Game/myfolders/Levels/6LEVEl.6LEVEl! Returning None instead
+[2022.05.11-14.13.47:576][795]LogOutputDevice: Error: Stack: 
+[2022.05.11-14.13.47:576][795]LogOutputDevice: Error: [Callstack] 0x00007ffbe3cec5a3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffbe38db7f0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffbe38a7a74 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffbbd6f192e UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffbbd6d94fa UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffbbd684816 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffbbd6f1592 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffbd5a687ed UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffbd5ad66e2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffbd5b23cea UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffbd5a3e1fb UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffbd5a1facf UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffbfc40df42 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffbfc3f76cf UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffbfc2f1f8f UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffbfc3fe1d8 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffbfc1dc1aa UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffbfc1dcaa0 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffbfc1d5850 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffbfc1bee97 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffbfc1b1e0f UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffc06b97fdb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffc06b85c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffc06b9a619 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffc06b817d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffc2f01e858 USER32.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffc2f01e299 USER32.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffc06b9bb34 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ff7638468c4 UE4Editor.exe!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ff76385ba7c UE4Editor.exe!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ff76385bb5a UE4Editor.exe!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ff76386e31d UE4Editor.exe!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ff76387145a UE4Editor.exe!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffc2e1d7034 KERNEL32.DLL!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: [Callstack] 0x00007ffc2ff02651 ntdll.dll!UnknownFunction []
+[2022.05.11-14.13.47:577][795]LogOutputDevice: Error: 
